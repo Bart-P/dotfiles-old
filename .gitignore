@@ -1,0 +1,8 @@
+# automatically ignore everything
+*
+
+!./.zshrc
+!./.bashrc
+!./.config/awesome/**
+!./.config/nvim/**
+!./.config/rofi/**
